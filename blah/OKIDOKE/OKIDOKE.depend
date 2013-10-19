@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1382128102 source:c:\users\joshua\documents\devprojs\abilities.cpp
+	"functionsh.h"
+	<iostream>
+	<cstdlib>
+
+1382055956 c:\users\joshua\documents\devprojs\functionsh.h
+
+1382055956 source:c:\users\joshua\documents\devprojs\ff11_devolved.cpp
+	<iostream>
+	<string>
+	"functionsh.h"
+
+1382134925 source:c:\users\joshua\documents\devprojs\functions.cpp
+	<iostream>
+	<string>
+	"functionsh.h"
+	<Windows.h>
+	<string>
+	<iterator>
+	<set>
+
